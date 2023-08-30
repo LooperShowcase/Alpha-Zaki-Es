@@ -1,0 +1,64 @@
+body{
+    font-family: 'Bungee Spice', cursive;
+  }
+  /* Additional CSS styling */
+body {
+margin: 0;
+padding: 0;
+background-color: #0d93c7;
+}
+css
+h1 {
+text-align: center;
+color: #0e0543;
+}
+
+p {
+text-align: center;
+color: #000000;
+}
+
+#lambo-img {
+text-align: center;
+margin: 20px 0;
+}
+
+img {
+max-width: 100%;
+height: auto;
+}
+
+ol {
+list-style-type: decimal;
+margin-left: 20px;
+padding-left: 0;
+color: #085765;
+}
+
+li {
+margin-bottom: 5px;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #888;
+  }
+  
+  #navItem {
+    float: left;
+  }
+  
+  #navItem a {
+    display: block;
+    color: purple;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #navItem a:hover {
+    background-color: #111;
+  }
